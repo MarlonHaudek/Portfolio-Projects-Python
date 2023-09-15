@@ -1,4 +1,4 @@
-#Purpose of Time Series Forecasting Project
+# Purpose of Time Series Forecasting Project
 The goal of the Time Series Forecasting project was to familiarise myself with the different methods that are used for this. 
 For this purpose, I started with the ARIMA models, which strictly speaking do not belong to the neural networks, 
 but are often used in machine learning. Since ARIMA models deliver good results for simple time series data, 
